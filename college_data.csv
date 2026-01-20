@@ -1,0 +1,67 @@
+College,Profession,Course,Location,Rating,Review1,Review2,Review3
+IIT Madras,Engineering,Computer Science Engineering,Chennai,4.8,Excellent academics,Strong research culture,Top recruiters
+IIT Bombay,Engineering,Computer Science Engineering,Mumbai,4.9,Global reputation,Outstanding faculty,Excellent placements
+IIT Delhi,Engineering,Electrical Engineering,Delhi,4.7,Strong core branches,Good research exposure,Top companies visit
+IIT Kanpur,Engineering,Mechanical Engineering,Kanpur,4.6,Research oriented,Good campus culture,Strong alumni
+IIT Kharagpur,Engineering,Civil Engineering,Kharagpur,4.6,Oldest IIT,Strong infrastructure focus,Wide alumni network
+NIT Trichy,Engineering,Mechanical Engineering,Tamil Nadu,4.5,Good placements,Balanced campus life,Affordable government college
+NIT Surathkal,Engineering,Electronics Engineering,Karnataka,4.4,Good coastal campus,Strong ECE department,Good placements
+BITS Pilani,Engineering,Computer Science Engineering,Rajasthan,4.7,Flexible curriculum,Strong industry exposure,High placement record
+Anna University,Engineering,Information Technology,Tamil Nadu,4.0,Wide course options,Strong alumni network,Good state exposure
+VIT Vellore,Engineering,Computer Science Engineering,Vellore,4.1,Modern infrastructure,Good placement support,Industry exposure
+
+AIIMS Delhi,Medical,MBBS,Delhi,4.9,Top medical institute,Excellent clinical exposure,Highly competitive
+AIIMS Jodhpur,Medical,MBBS,Jodhpur,4.6,Modern facilities,Central institute,Good faculty
+CMC Vellore,Medical,MBBS,Vellore,4.8,Patient-focused training,Strong academics,Excellent reputation
+JIPMER Puducherry,Medical,MBBS,Puducherry,4.6,Good clinical exposure,Central institute status,Affordable education
+KGMU Lucknow,Medical,MBBS,Lucknow,4.4,Old reputed college,High patient inflow,Strong academics
+BHU IMS,Medical,MBBS,Varanasi,4.5,Central university exposure,Strong faculty,Good hospital facilities
+Grant Medical College,Medical,MBBS,Mumbai,4.3,Urban hospital exposure,Good clinical practice,Reputed government college
+Madras Medical College,Medical,MBBS,Chennai,4.4,High patient volume,Good learning exposure,Old reputed institute
+St Johns Medical College,Medical,MBBS,Bangalore,4.5,Ethical training,Good faculty,Strong values
+Amrita School of Medicine,Medical,MBBS,Kochi,4.2,Modern campus,Good infrastructure,Patient-focused learning
+
+Loyola College,Arts & Science,BSc Mathematics,Chennai,4.3,Strong academics,Reputed institution,Good learning environment
+Madras Christian College,Arts & Science,BA English,Chennai,4.2,Historic institution,Strong faculty,Holistic education
+Presidency College,Arts & Science,BA History,Chennai,4.1,Good academic culture,Government college,Affordable fees
+Delhi University,Arts & Science,BA Political Science,Delhi,4.4,Wide exposure,Strong peer group,Central university status
+St Xavier’s College,Arts & Science,BSc Physics,Mumbai,4.3,Strong science departments,Good campus culture,Reputed college
+Christ University,Arts & Science,BCA,Bangalore,4.2,Modern curriculum,Good faculty,Industry exposure
+Fergusson College,Arts & Science,BSc Chemistry,Pune,4.3,Strong academics,Good research exposure,Historic institution
+Jadavpur University,Arts & Science,BA Sociology,Kolkata,4.5,Strong humanities focus,Good academic culture,Public university advantage
+Aligarh Muslim University,Arts & Science,BA Economics,Aligarh,4.2,Central university status,Diverse exposure,Strong academics
+Osmania University,Arts & Science,BCom,Hyderabad,4.1,Old reputed university,Good commerce faculty,Affordable education
+
+IIM Indore,Management,Integrated MBA,Indore,4.6,Strong academics,Good placements,National reputation
+IIM Rohtak,Management,Integrated MBA,Rohtak,4.5,Structured curriculum,Good faculty,Emerging reputation
+Christ University,Management,BBA,Bangalore,4.2,Industry exposure,Good faculty,Strong placements
+NMIMS Mumbai,Management,BBA,Mumbai,4.3,Corporate exposure,Modern curriculum,Strong brand value
+Symbiosis Pune,Management,BBA,Pune,4.2,Good peer group,Industry-oriented courses,Strong alumni
+SCMS Cochin,Management,BBA,Kochi,4.0,Good management exposure,Decent placements,Professional environment
+Xavier Institute of Management Bhubaneswar,Management,BBA,Bhubaneswar,4.4,Strong academics,Good reputation,Management focused
+Amrita School of Business,Management,BBA,Coimbatore,4.1,Ethical focus,Good faculty,Growing placements
+St Joseph’s College of Commerce,Management,BCom Management,Bangalore,4.3,Strong commerce base,Good placements,Reputed institute
+Loyola College,Management,BCom Management,Chennai,4.2,Strong academics,Good faculty,Good corporate exposure
+IIIT Hyderabad,Engineering,Computer Science Engineering,Hyderabad,4.6,Strong coding culture,Excellent placements,Research focused
+PSG College of Technology,Engineering,Mechanical Engineering,Coimbatore,4.3,Good industry exposure,Strong alumni,Reputed private college
+SSN College of Engineering,Engineering,Computer Science Engineering,Chennai,4.2,Good faculty,Industry collaboration,Consistent placements
+CoEP Pune,Engineering,Civil Engineering,Pune,4.4,Old reputed institute,Strong academics,Government college advantage
+Jadavpur University,Engineering,Electrical Engineering,Kolkata,4.5,Strong core engineering,Research focus,Low fees
+
+AIIMS Bhopal,Medical,MBBS,Bhopal,4.5,Modern facilities,Central institute,Good academics
+AIIMS Rishikesh,Medical,MBBS,Rishikesh,4.4,Good clinical exposure,Central institute status,Growing reputation
+Kasturba Medical College,Medical,MBBS,Manipal,4.4,Good clinical training,Private reputed institute,Strong alumni
+Government Medical College Chandigarh,Medical,MBBS,Chandigarh,4.5,Good hospital exposure,Government college,Strong academics
+IMS BHU,Medical,MBBS,Varanasi,4.5,Central university advantage,Good faculty,High patient load
+
+Hindu College,Arts & Science,BA Economics,Delhi,4.5,Top DU college,Strong academics,Competitive peer group
+Ramjas College,Arts & Science,BA History,Delhi,4.3,Good humanities focus,Central university,Active student culture
+Lady Shri Ram College,Arts & Science,BA Sociology,Delhi,4.7,Top women’s college,Strong academics,Excellent exposure
+Presidency University,Arts & Science,BSc Statistics,Bangalore,4.2,Modern curriculum,Good faculty,Research oriented
+University of Hyderabad,Arts & Science,MA Economics,Hyderabad,4.4,Research focused,Central university,Strong faculty
+
+TISS Mumbai,Management,MA HRM & LR,Mumbai,4.7,Top social sciences institute,Strong placements,National reputation
+IIM Ranchi,Management,Integrated MBA,Ranchi,4.4,Emerging IIM,Good academics,Improving placements
+Xavier University Bhubaneswar,Management,BBA,Bhubaneswar,4.3,Jesuit education model,Good academics,Reputed institute
+Great Lakes Institute of Management,Management,PGDM,Chennai,4.3,Industry aligned curriculum,Good placements,Corporate exposure
+IMT Ghaziabad,Management,PGDM,Ghaziabad,4.4,Strong marketing focus,Good alumni,Reputed management institute
